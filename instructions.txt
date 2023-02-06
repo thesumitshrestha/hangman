@@ -1,0 +1,12 @@
+- Welcome to Hangman Game
+-  |---+
+   O   |
+  /|\  |
+  / \  |
+
+- Guess the word (character from a-z only)
+- 7 chances to guess
+- Exciting prize if you makee a correct guess
+- Excited? 
+  Enter (P) to Play Game
+
